@@ -22,6 +22,13 @@ assignments = {
       "dueDate": "2023-09-02T23:59:00",
       "link": "https://www.gradescope.com/courses/573322",
       "submitted": false
+    },
+    {
+      "title": "Homework 2",
+      "course": "wl.202410.AAE.33400.001",
+      "dueDate": "2023-09-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/573322",
+      "submitted": false
     }
   ],
   "wl.202410.AAE.33900.001": [
