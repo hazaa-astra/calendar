@@ -38,6 +38,13 @@ assignments = {
       "dueDate": "2023-08-30T23:59:00",
       "link": "https://www.gradescope.com/courses/571535/assignments/3166538/submissions/189365703",
       "submitted": true
+    },
+    {
+      "title": "HW2",
+      "course": "wl.202410.AAE.33900.001",
+      "dueDate": "2023-09-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/571535",
+      "submitted": false
     }
   ],
   "wl.202410.AAE.42100.002": [
