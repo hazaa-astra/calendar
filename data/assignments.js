@@ -42,7 +42,7 @@ assignments = {
     {
       "title": "HW2",
       "course": "wl.202410.AAE.33900.001",
-      "dueDate": "2023-09-06T23:59:00",
+      "dueDate": "2023-09-07T23:59:00",
       "link": "https://www.gradescope.com/courses/571535",
       "submitted": false
     }
