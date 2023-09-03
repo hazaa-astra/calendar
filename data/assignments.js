@@ -46,14 +46,5 @@ assignments = {
       "link": "https://www.gradescope.com/courses/571535",
       "submitted": false
     }
-  ],
-  "wl.202410.AAE.42100.002": [
-    {
-      "title": "Homework 1",
-      "course": "wl.202410.AAE.42100.002",
-      "dueDate": "2023-09-03T23:59:00",
-      "link": "https://www.gradescope.com/courses/585468",
-      "submitted": false
-    }
   ]
 };
