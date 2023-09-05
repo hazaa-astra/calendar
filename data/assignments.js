@@ -13,6 +13,13 @@ assignments = {
       "dueDate": "2023-09-05T23:59:00",
       "link": "https://www.gradescope.com/courses/576280",
       "submitted": false
+    },
+    {
+      "title": "Lab 2 Pre-Lab Assignment",
+      "course": "AAE 33401-007 DIS",
+      "dueDate": "2023-09-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/576280/assignments/3259781/submissions/new",
+      "submitted": false
     }
   ],
   "wl.202410.AAE.33400.001": [
