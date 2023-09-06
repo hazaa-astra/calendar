@@ -27,8 +27,8 @@ assignments = {
       "title": "Homework 1",
       "course": "wl.202410.AAE.33400.001",
       "dueDate": "2023-09-02T23:59:00",
-      "link": "https://www.gradescope.com/courses/573322",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/573322/assignments/3161443/submissions/190653018",
+      "submitted": true
     },
     {
       "title": "Homework 2",
