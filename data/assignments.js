@@ -11,8 +11,8 @@ assignments = {
       "title": "Lab 1 Post-Lab Assignment",
       "course": "AAE 33401-007 DIS",
       "dueDate": "2023-09-05T23:59:00",
-      "link": "https://www.gradescope.com/courses/576280",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/576280/assignments/3212493/submissions/190619999",
+      "submitted": true
     },
     {
       "title": "Lab 2 Pre-Lab Assignment",
